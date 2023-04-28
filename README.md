@@ -16,7 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 You can test the api endpoint with postman, insomnia, etc. using the url below
 [http://localhost:5000/](http://localhost:5000/) 
-Modify the url accordingly to get the list of user, post to create a new user, get the list of exercises, modify and create a new exercise.
+Modify the url accordingly to get the list of users, post to create a new user, get the list of exercises, modify and create a new exercise.
 
 
 
